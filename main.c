@@ -5,5 +5,7 @@ void main(){
     printf("menyala");
 
     printf("yokoso");
+    printf("yokoso1");
+
 
 }
