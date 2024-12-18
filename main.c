@@ -7,5 +7,5 @@ void main(){
     printf("yokoso");
     printf("yokoso1");
 
-
+    printf("nun");
 }
