@@ -4,4 +4,6 @@ void main(){
     printf("mantapp");
     printf("menyala");
 
+    printf("yokoso");
+
 }
